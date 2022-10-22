@@ -2,8 +2,7 @@
 1. Command "$lsof -u user": This command is used to list files opened by (a particular)user.<br>
           example: $lsof -u vagrant <br>
           example screenshot:
-  ![$lsof -u user command](./images/lsof - u vagrant.png)
-<br>      
+  ![$lsof -u user command](./images/"lsof - u vagrant.png")      
 
 2. Command "$w": This command shows who is logged in and what they are doing. <br>
           example: $w <br>
