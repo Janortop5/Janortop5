@@ -20,36 +20,22 @@
           screenshot:
    ![$cal command](./images/cal---see-month-calendar.png)          
 #### 6. Command `$id`: This command displays the user and group ids of your current user.
-          example: $id<
-          example screenshot:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-profile-template/main/id%20-%20display%20the%20user%20and%20group%20id%20of%20your%20current%20user.png" width="100%"/>
-</div>             
-          
-#### 7. Command `$who`: This command shows who is logged into the system.<br>
-          example: $who<br>
-          example screenshot:<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-profile-template/main/who.png" width="100%"/>
-</div>             
-          
-#### 8. Command `$unset`: This command is used to remove a variable<br>
-          example: $unset dn<br>
-          example screenshot:<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-profile-template/main/unset.png" width="100%"/>
-</div>             
-          
-#### 9. Command `$logout`: This command is used to logout of a vagrant ssh<br>
-          example: $logout<br>
-          example screenshot:<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-profile-template/main/logout%20-log%20out%20of%20vagrant%20ssh.png" width="100%"/>
-</div>             
-          
-#### 10. Command `$less`: This command is used to browse through a text file<br>
-          example: $less test2.txt<br>
-          example screenshot:<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-profile-template/main/less.png" width="100%"/>
-</div>             
+          example: $id
+          screenshot:  
+   ![$id command](./images/id---display-the-user-and-group-id-of-your-current-user.png) 
+#### 7. Command `$who`: This command shows who is logged into the system.
+          example: $who
+          screenshot:
+   ![$who command](./images/who.png)        
+#### 8. Command `$unset`: This command is used to remove a variable
+          example: $unset dn
+          screenshot:
+   ![$unset command](./images/unset.png)        
+#### 9. Command `$logout`: This command is used to logout of a vagrant ssh
+          example: $logout
+          screenshot:
+   ![$logout command](./images/logout-log-out-of-vagrant-ssh.png)        
+#### 10. Command `$less`: This command is used to browse through a text file
+          example: $less test2.txt
+          screenshot:
+   ![$less command](./images/less.png)           
