@@ -1,5 +1,5 @@
 ### doing stuff, trying to do them well.
 
 #### Education
-- BSc. Computer Science + math @ OAU
+- BSc. Computer Science + Math @ OAU
 - Cloud Engineering @ AltSchoolAfrica
